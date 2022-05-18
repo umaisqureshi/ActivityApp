@@ -1,0 +1,10 @@
+class BottomModel {
+  late String pic;
+  late String name;
+  late String rating;
+  late String num;
+  late String distance;
+
+
+  BottomModel({required this.pic, required this.name, required this.rating, required this.num, required this.distance,});
+}

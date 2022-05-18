@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "558044972093",
+    "project_id": "activity-u-techware",
+    "storage_bucket": "activity-u-techware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558044972093:android:c8548912df641ca4c71654",
+        "android_client_info": {
+          "package_name": "com.example.activitymobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558044972093-qk546mr3gqijcb5epc6eh85s34eroga7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.activitymobile",
+            "certificate_hash": "1da536be1ab27977c8487caa7078463b39758dd6"
+          }
+        },
+        {
+          "client_id": "558044972093-ptffte05ls52aflu7p9l01f17n6fa151.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC350quzgzId8pbGndJUAAH-4Iva4tXy0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558044972093-ptffte05ls52aflu7p9l01f17n6fa151.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
